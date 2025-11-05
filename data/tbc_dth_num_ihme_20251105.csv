@@ -1,0 +1,205 @@
+measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,rei_id,rei_name,metric_id,metric_name,year,val,upper,lower
+1,Deaths,6,People's Republic of China,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,2380741.99503112,2830484.517448442,2023577.279875787
+1,Deaths,12,Lao People's Democratic Republic,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,9059.019488896653,10784.184295496536,7438.08250044289
+1,Deaths,7,Democratic People's Republic of Korea,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,34419.227350782574,42132.69755454225,27626.89586740988
+1,Deaths,10,Kingdom of Cambodia,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,16214.742931647885,18879.021715733623,13213.199723249036
+1,Deaths,8,Taiwan (Province of China),3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,27320.88136908442,33460.407304256594,21850.668408005426
+1,Deaths,14,Republic of Maldives,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,332.91046658684803,397.89032478929926,278.27215264625534
+1,Deaths,11,Republic of Indonesia,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,295042.5399645441,342036.0381581206,245599.92619485423
+1,Deaths,17,Democratic Socialist Republic of Sri Lanka,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,18682.260484535414,22138.9626969762,15119.418167306276
+1,Deaths,15,Republic of the Union of Myanmar,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,72338.38886902126,87144.07806914646,60381.25460948843
+1,Deaths,13,Malaysia,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,25679.19632910397,30910.207178065284,21115.2299068944
+1,Deaths,18,Kingdom of Thailand,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,71047.37505106941,84405.2208680906,59668.16866976098
+1,Deaths,16,Republic of the Philippines,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,95573.77542864357,112327.2608886915,79329.91236539303
+1,Deaths,20,Socialist Republic of Viet Nam,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,106545.24967459192,125785.00269648895,89676.23049229253
+1,Deaths,19,Democratic Republic of Timor-Leste,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,1116.528628720579,1401.6517026266058,884.8059326206464
+1,Deaths,25,Federated States of Micronesia,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,157.3474520232417,190.878808843502,127.68446781290814
+1,Deaths,23,Republic of Kiribati,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,118.14484335809614,135.42600520353932,99.46870077963356
+1,Deaths,24,Republic of the Marshall Islands,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,51.46271740269946,63.2115726261749,41.24026790388744
+1,Deaths,26,Independent State of Papua New Guinea,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,8474.00953149368,10635.22998056827,6731.384528599144
+1,Deaths,28,Solomon Islands,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,1510.679836087511,1826.3682182526063,1216.9339470494174
+1,Deaths,22,Republic of Fiji,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,1080.5622181665294,1315.9710906559058,872.5018575348736
+1,Deaths,27,Independent State of Samoa,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,261.9478756272983,317.8757813755189,215.72431242845173
+1,Deaths,29,Kingdom of Tonga,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,116.10124577871716,140.9047444957302,96.03173804663676
+1,Deaths,34,Republic of Azerbaijan,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,11434.756662990094,13317.87487271336,9546.47805727377
+1,Deaths,30,Republic of Vanuatu,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,244.7293527183543,308.75163457671937,190.38196479165703
+1,Deaths,33,Republic of Armenia,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,4225.801297102365,4829.069087991318,3645.6198565097225
+1,Deaths,39,Republic of Tajikistan,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,3907.511688410604,5027.555005811721,2927.430270393525
+1,Deaths,37,Kyrgyz Republic,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,4078.198155762663,4553.00898558233,3491.130566502678
+1,Deaths,35,Georgia,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,7018.016758723027,8048.628429557325,5997.975318102357
+1,Deaths,40,Turkmenistan,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,3914.3185957427286,4821.3892445735855,3119.2651705849
+1,Deaths,38,Mongolia,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,2718.847388974782,3258.7606170100703,2231.7849077482065
+1,Deaths,36,Republic of Kazakhstan,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,17285.48683411925,19708.098607542604,14758.040524545317
+1,Deaths,45,Republic of Bulgaria,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,14005.442648536387,16026.776254239528,12131.704051161934
+1,Deaths,43,Republic of Albania,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,3797.2418862667087,4599.148241255054,3035.8706787844167
+1,Deaths,41,Republic of Uzbekistan,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,19718.27374962516,23583.2449964804,15973.52554021221
+1,Deaths,46,Republic of Croatia,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,8019.437874604942,9374.154404839705,6784.068616948181
+1,Deaths,44,Bosnia and Herzegovina,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,6782.154304094706,8152.452030778741,5596.059041899019
+1,Deaths,48,Hungary,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,17452.013779515863,20254.58067117349,14869.314251442089
+1,Deaths,47,Czech Republic,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,15289.07182261294,17627.172871524097,12719.376973025905
+1,Deaths,53,Republic of Serbia,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,18593.12444698513,21843.043126203374,15564.349432851912
+1,Deaths,49,North Macedonia,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,3617.4214733029785,4272.240115652685,2969.3345214165047
+1,Deaths,51,Republic of Poland,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,59334.21143341701,68865.96578559116,50392.81133001327
+1,Deaths,52,Romania,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,30218.00276804393,34634.32742539103,25910.728754684616
+1,Deaths,50,Montenegro,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,1318.218872396802,1600.758986111658,1113.7012516945897
+1,Deaths,54,Slovak Republic,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,7201.336388831394,8510.39908572098,5918.519104524463
+1,Deaths,59,Republic of Latvia,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,3004.860754878581,3540.0853563471383,2504.4123954037336
+1,Deaths,57,Republic of Belarus,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,19108.429490868966,21972.04094239378,16173.051356392389
+1,Deaths,55,Republic of Slovenia,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,2076.6519103205364,2465.782288931716,1718.4504224777434
+1,Deaths,58,Republic of Estonia,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,1345.5810520945577,1602.839431510629,1126.2022165649205
+1,Deaths,62,Russian Federation,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,244080.5111199875,276404.0221763423,211496.21423666025
+1,Deaths,60,Republic of Lithuania,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,3993.3794507514986,4662.259474860353,3345.568856083317
+1,Deaths,67,Japan,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,156642.68461456284,190931.32885787837,128972.71932274236
+1,Deaths,63,Ukraine,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,70708.57567074435,84419.24500150545,58170.49491955771
+1,Deaths,61,Republic of Moldova,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,5145.28110751036,6024.58452658806,4204.111390538322
+1,Deaths,66,Brunei Darussalam,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,245.6142954284797,319.27678569223485,180.84311027485637
+1,Deaths,68,Republic of Korea,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,36705.850306548,45511.94584904272,29731.35811995008
+1,Deaths,71,Australia,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,15437.906488510367,18552.267083475963,12624.413550569743
+1,Deaths,69,Republic of Singapore,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,2042.6877103463892,2584.9142682914207,1574.8372006727766
+1,Deaths,74,Principality of Andorra,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,83.33516265941431,106.21418198181765,64.20155296261751
+1,Deaths,78,Kingdom of Denmark,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,8781.690731989938,10694.943936050848,7170.14923072738
+1,Deaths,72,New Zealand,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,3662.608743859215,4410.539036642032,2969.6078526553524
+1,Deaths,76,Kingdom of Belgium,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,12000.262112624276,14504.01398187429,9618.810805660703
+1,Deaths,79,Republic of Finland,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,4339.304434876599,5317.658566960609,3459.16900865429
+1,Deaths,81,Federal Republic of Germany,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,108598.12550122764,129945.83045651384,88503.0945812013
+1,Deaths,75,Republic of Austria,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,9503.099507956553,11634.896789671502,7606.757075326754
+1,Deaths,77,Republic of Cyprus,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,1097.1657389708134,1366.582764819606,851.2747332129554
+1,Deaths,82,Hellenic Republic,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,18741.12549870571,21805.48681461528,15943.953481735236
+1,Deaths,84,Ireland,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,3922.7814214381583,4884.832834740155,3261.900848525227
+1,Deaths,80,French Republic,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,57681.25077922718,68109.82907443168,48223.1104043425
+1,Deaths,87,Grand Duchy of Luxembourg,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,459.9038254012101,559.925901040124,367.1932370957364
+1,Deaths,83,Republic of Iceland,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,279.5217260515157,358.08631539366763,213.3737584893442
+1,Deaths,89,Kingdom of the Netherlands,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,20706.24697174101,24607.65792266913,17346.445739334747
+1,Deaths,85,State of Israel,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,4059.9378350639336,5031.167078425759,3236.365152467747
+1,Deaths,88,Republic of Malta,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,377.0384390453014,478.1316287594076,293.12459730892385
+1,Deaths,90,Kingdom of Norway,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,3280.145327689964,4083.005328002696,2620.993336000055
+1,Deaths,86,Republic of Italy,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,59601.136312929055,73197.48870017812,47873.307391570335
+1,Deaths,92,Kingdom of Spain,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,49509.70739442652,58723.095661750966,41044.446977685024
+1,Deaths,91,Portuguese Republic,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,8799.327245131497,10374.678158787328,7307.00019882308
+1,Deaths,95,United Kingdom of Great Britain and Northern Ireland,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,80941.84556802074,97806.94823012478,67233.77092635482
+1,Deaths,93,Kingdom of Sweden,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,8694.438581113998,10545.409907730444,6912.440061110358
+1,Deaths,94,Swiss Confederation,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,6891.356061962382,8584.260914002329,5595.595737053991
+1,Deaths,98,Republic of Chile,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,9427.666107385749,11344.621740555214,7601.720055455249
+1,Deaths,97,Argentine Republic,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,34205.16208716373,42007.9653615141,27428.034192415915
+1,Deaths,101,Canada,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,39520.14185543581,48929.042315352766,31742.02388978717
+1,Deaths,99,Eastern Republic of Uruguay,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,4037.741340797447,4807.391669818651,3301.115589855005
+1,Deaths,106,Commonwealth of the Bahamas,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,144.2028326802981,193.6776962830688,104.81672438857952
+1,Deaths,102,United States of America,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,358821.05951739784,427445.85790235386,299064.94680348213
+1,Deaths,109,Republic of Cuba,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,19429.54719527347,25006.14330598429,14953.73284464111
+1,Deaths,107,Barbados,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,132.2882490589439,180.9643955257876,97.03239640221244
+1,Deaths,105,Antigua and Barbuda,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,37.95654903096181,53.75610263594558,27.983431387656005
+1,Deaths,112,Grenada,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,57.04509990080805,76.07661171969843,42.18193540385496
+1,Deaths,110,Commonwealth of Dominica,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,46.109326813963136,60.30318448239324,34.62132866295497
+1,Deaths,108,Belize,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,140.55972349659783,179.9915511072356,105.76658797122988
+1,Deaths,111,Dominican Republic,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,5582.415757762566,6910.973721341749,4348.40109364494
+1,Deaths,113,Republic of Guyana,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,443.76004475035467,580.8597487937877,336.5550356663455
+1,Deaths,115,Jamaica,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,1269.700227778959,1635.4191631353915,1005.4332632213534
+1,Deaths,117,Saint Vincent and the Grenadines,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,57.40587449256248,75.67325111164129,43.37516693639076
+1,Deaths,114,Republic of Haiti,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,4858.335356425683,6501.47605965385,3529.0367871157555
+1,Deaths,118,Republic of Suriname,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,404.1278592678985,511.1577120709008,306.32682715873443
+1,Deaths,116,Saint Lucia,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,86.98081732378152,118.46205660269312,64.87215357663779
+1,Deaths,121,Plurinational State of Bolivia,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,3435.4303671294447,4553.478608714282,2583.7496595397265
+1,Deaths,119,Republic of Trinidad and Tobago,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,1284.6408805418814,1649.5989148978902,995.1373734146972
+1,Deaths,123,Republic of Peru,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,8167.211049603368,11113.293928316309,5821.33974077914
+1,Deaths,126,Republic of Costa Rica,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,1693.7544626020124,2071.5050587480355,1305.5476160258631
+1,Deaths,122,Republic of Ecuador,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,4302.24250739239,5369.143805001421,3296.0216986653286
+1,Deaths,128,Republic of Guatemala,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,3548.639708940994,4671.158305208716,2676.9701746890737
+1,Deaths,125,Republic of Colombia,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,15228.838107575875,19547.28263625581,11934.31280474084
+1,Deaths,129,Republic of Honduras,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,2478.6342948227766,3126.179597700339,1924.6348300137936
+1,Deaths,127,Republic of El Salvador,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,1619.1541803673224,2191.459319114508,1201.6374925006548
+1,Deaths,131,Republic of Nicaragua,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,1617.6657575638865,2073.8424979155047,1226.3436873629662
+1,Deaths,130,United Mexican States,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,50562.84565051863,59905.70240087395,40325.34438785351
+1,Deaths,132,Republic of Panama,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,899.8065020973771,1187.457561664857,663.4256369236942
+1,Deaths,135,Federative Republic of Brazil,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,141737.27647318135,168152.65408836838,115777.60785884372
+1,Deaths,133,Bolivarian Republic of Venezuela,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,16896.43589396936,22051.91022605081,12350.596554478136
+1,Deaths,140,Kingdom of Bahrain,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,662.8777381702968,803.629058466797,517.3139476497381
+1,Deaths,142,Islamic Republic of Iran,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,34058.90283252591,42311.74009440619,26763.28522647207
+1,Deaths,136,Republic of Paraguay,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,4558.404135009767,5721.887844548333,3515.7281289386733
+1,Deaths,139,People's Democratic Republic of Algeria,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,27964.19570480688,33703.84077797323,22781.209775541294
+1,Deaths,141,Arab Republic of Egypt,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,96910.06658568625,114827.53282633884,80886.73741912698
+1,Deaths,145,State of Kuwait,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,1386.554168688524,1658.5564523284204,1132.1196058692794
+1,Deaths,143,Republic of Iraq,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,35023.72203596737,41055.8068139733,29357.09504791712
+1,Deaths,144,Hashemite Kingdom of Jordan,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,6661.222322012415,7811.166877469104,5544.141933119317
+1,Deaths,146,Lebanese Republic,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,5325.195717991835,6416.019040532747,4343.411319841548
+1,Deaths,148,Kingdom of Morocco,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,23959.04782108246,28969.004917302675,18953.78898878109
+1,Deaths,149,Palestine,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,2234.54088823991,2610.816527722738,1869.9123723137373
+1,Deaths,147,State of Libya,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,5901.885828198587,6927.426503483552,4864.115920171927
+1,Deaths,153,Syrian Arab Republic,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,13669.83685759086,16854.174430280393,11011.780750618516
+1,Deaths,151,State of Qatar,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,372.732907494438,480.2175845547792,288.4834490385636
+1,Deaths,150,Sultanate of Oman,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,915.8086567165232,1152.523352358438,735.5015511045984
+1,Deaths,156,United Arab Emirates,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,1313.099003050399,1658.8198799443528,993.8771270086736
+1,Deaths,152,Kingdom of Saudi Arabia,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,8144.129632608499,9956.87732844046,6564.53439153788
+1,Deaths,154,Republic of Tunisia,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,12337.45769382848,14598.015948421717,10355.053844724502
+1,Deaths,157,Republic of Yemen,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,15129.526223110412,19012.0859884411,11581.675555216185
+1,Deaths,155,Republic of Turkey,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,91123.34781845928,104818.03071048832,76252.89529387958
+1,Deaths,162,Kingdom of Bhutan,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,443.1154092061975,595.3329052886011,327.89709394132944
+1,Deaths,160,Islamic Republic of Afghanistan,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,7793.920105989793,10229.8240852995,5956.47535377717
+1,Deaths,163,Republic of India,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,1153978.1125811453,1391936.479925346,957297.58614189
+1,Deaths,165,Islamic Republic of Pakistan,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,147282.83456943178,183753.16317259573,118129.21666562196
+1,Deaths,161,People's Republic of Bangladesh,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,199148.5154499574,234854.35835560304,171870.35408284242
+1,Deaths,170,Republic of the Congo,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,1607.6985020394918,2225.1261410337297,1169.8331008150492
+1,Deaths,168,Republic of Angola,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,7608.986593699164,10560.884161251144,5452.60866928601
+1,Deaths,164,Federal Democratic Republic of Nepal,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,28155.049464298976,34751.027649113305,22493.205680804364
+1,Deaths,169,Central African Republic,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,2000.2633079896916,2725.294712071579,1422.730375830291
+1,Deaths,171,Democratic Republic of the Congo,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,20038.335251899967,25588.1869891854,14798.089622887674
+1,Deaths,173,Gabonese Republic,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,567.5050696178125,758.3266161997725,426.4572851716372
+1,Deaths,172,Republic of Equatorial Guinea,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,357.9877728977196,475.5780632529838,249.10237871235933
+1,Deaths,176,Union of the Comoros,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,180.3510798705883,232.122780308849,138.1446838124117
+1,Deaths,181,Republic of Madagascar,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,8859.79547741898,11014.324996532145,7133.151848369982
+1,Deaths,175,Republic of Burundi,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,2432.080807148637,3267.37939784848,1728.9529122860645
+1,Deaths,179,Federal Democratic Republic of Ethiopia,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,11737.547643519512,16303.568601877325,8424.136299104695
+1,Deaths,177,Republic of Djibouti,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,544.5277071704777,702.8198311427741,421.7612021574966
+1,Deaths,180,Republic of Kenya,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,8402.216875653101,10959.110545943604,6199.287363265481
+1,Deaths,182,Republic of Malawi,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,4439.284128126508,5757.833626701868,3395.3825113080816
+1,Deaths,184,Republic of Mozambique,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,4817.484451041369,6553.260847024655,3426.9251960351967
+1,Deaths,178,State of Eritrea,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,1301.995375896862,1735.930250923925,948.057325150886
+1,Deaths,185,Republic of Rwanda,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,5538.12613120427,7778.146710324266,3970.3558873075535
+1,Deaths,183,Republic of Mauritius,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,1405.5730337778025,1685.8726598724409,1153.0696255942294
+1,Deaths,187,Federal Republic of Somalia,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,3517.8713487418217,4565.253372596485,2590.725874666833
+1,Deaths,193,Republic of Botswana,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,1226.0019318750765,1592.7091771511127,925.348965252386
+1,Deaths,189,United Republic of Tanzania,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,13499.337540487291,17020.448476692527,10251.07575156348
+1,Deaths,191,Republic of Zambia,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,4006.271455000134,5258.009441826099,2922.622194092321
+1,Deaths,186,Republic of Seychelles,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,102.96722121311996,128.35460061522372,82.13926316314871
+1,Deaths,190,Republic of Uganda,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,5214.975607871001,6929.686176568996,3835.7173881731183
+1,Deaths,194,Kingdom of Lesotho,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,1179.5829885622968,1496.8480897931738,904.0319574574844
+1,Deaths,196,Republic of South Africa,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,42612.31594148304,51181.9210550093,34509.65504598992
+1,Deaths,195,Republic of Namibia,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,1075.0932610088694,1343.7982910826777,829.365924709543
+1,Deaths,197,Kingdom of Eswatini,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,305.22325430156235,422.7818987077897,222.16531897238156
+1,Deaths,198,Republic of Zimbabwe,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,5677.735755917992,7077.5723949891935,4361.501212609878
+1,Deaths,202,Republic of Cameroon,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,5234.023343769201,6943.304382508159,3858.2998408467424
+1,Deaths,200,Republic of Benin,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,1648.2879793367488,2315.230656861282,1197.4762800453775
+1,Deaths,205,Republic of Côte d'Ivoire,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,6560.543714241886,8404.275304661876,4885.484330524727
+1,Deaths,207,Republic of Ghana,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,5701.895850346252,7751.425397415837,4215.278731399209
+1,Deaths,201,Burkina Faso,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,3286.001686654379,4166.40527993196,2501.209329912569
+1,Deaths,203,Republic of Cabo Verde,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,119.786620773664,159.31341862409118,87.12003398412915
+1,Deaths,204,Republic of Chad,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,4197.997861825265,5522.25930684529,3116.81963713998
+1,Deaths,206,Republic of the Gambia,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,673.4334350014522,881.5034554966287,510.2606933474664
+1,Deaths,210,Republic of Liberia,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,1146.6923342084422,1494.480453854375,851.0308688900757
+1,Deaths,208,Republic of Guinea,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,4201.68963064423,5508.998726661701,3160.625499088005
+1,Deaths,209,Republic of Guinea-Bissau,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,382.53762904682026,538.4649463091351,268.2916354244324
+1,Deaths,211,Republic of Mali,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,4819.841140328564,6123.386913048948,3645.946936341015
+1,Deaths,213,Republic of the Niger,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,4315.43916990682,5660.715973625626,3255.561013795562
+1,Deaths,216,Republic of Senegal,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,3279.3647805500445,3984.685602455708,2617.4826492807624
+1,Deaths,218,Togolese Republic,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,1723.269151513575,2322.298313889517,1249.0047426877406
+1,Deaths,212,Islamic Republic of Mauritania,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,1137.369372007002,1435.057514693054,842.9874451693672
+1,Deaths,214,Federal Republic of Nigeria,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,20708.39353337462,27749.95738474096,14975.49004502951
+1,Deaths,298,American Samoa,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,48.320121993105495,60.21388260154684,36.952718712121
+1,Deaths,217,Republic of Sierra Leone,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,2620.0356408280786,3263.163810679868,2064.367251020125
+1,Deaths,215,Democratic Republic of Sao Tome and Principe,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,39.730754980107925,55.98235899924453,28.55077289018877
+1,Deaths,305,Bermuda,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,52.37411496422994,67.3650342026615,40.85730404204419
+1,Deaths,349,Greenland,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,105.71002566910548,132.3348146909494,80.91168248441525
+1,Deaths,351,Guam,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,179.06816368577088,207.7798970702832,151.01087482521885
+1,Deaths,320,Cook Islands,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,19.55084067341732,24.033562767597687,15.394403737254205
+1,Deaths,367,Principality of Monaco,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,84.28519386453013,110.45061344526457,61.65707822342207
+1,Deaths,374,Republic of Niue,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,2.1899059801731524,2.7377174228705483,1.7238012360833788
+1,Deaths,376,Northern Mariana Islands,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,56.19744208552142,69.05828935552205,44.654329010290894
+1,Deaths,396,Republic of San Marino,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,25.180636930539865,33.18252857381619,18.647008466850888
+1,Deaths,385,Puerto Rico,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,2296.859055096094,2838.991664271915,1783.55718288837
+1,Deaths,369,Republic of Nauru,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,19.39042012428664,23.521760118768544,15.359239180901842
+1,Deaths,380,Republic of Palau,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,32.408638245771904,40.059999150079,25.980339227200812
+1,Deaths,422,United States Virgin Islands,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,51.52636309592952,63.36910062334368,41.02565899795429
+1,Deaths,413,Tokelau,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,2.1101353655658484,2.5173637999027605,1.7437946837697949
+1,Deaths,393,Saint Kitts and Nevis,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,16.373166914664818,22.093656425092277,11.754800234713397
+1,Deaths,435,Republic of South Sudan,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,2169.2779570098,2862.543153050162,1615.428447314067
+1,Deaths,416,Tuvalu,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,20.62860199632342,25.683964612441457,16.95279507354434
+1,Deaths,522,Republic of Sudan,3,Both,22,All ages,294,All causes,98,Tobacco,1,Number,2023,13935.095904762751,18466.63100556231,10594.884199173775
