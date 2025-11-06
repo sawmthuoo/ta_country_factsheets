@@ -1,0 +1,712 @@
+ctry,iso3,sex_group,value
+Burundi,BDI,female,3087693
+Comoros,COM,female,156719.5
+Djibouti,DJI,female,168503
+Eritrea,ERI,female,664554.5
+Ethiopia,ETH,female,24845761
+Kenya,KEN,female,10291799
+Madagascar,MDG,female,6091766.5
+Malawi,MWI,female,4361761
+Mauritius,MUS,female,97664.5
+Mayotte,MYT,female,69149.5
+Mozambique,MOZ,female,7495991
+Réunion,REU,female,91780.5
+Rwanda,RWA,female,2619724.5
+Seychelles,SYC,female,12610
+Somalia,SOM,female,4222000
+South Sudan,SSD,female,2262021.5
+Uganda,UGA,female,10609428
+United Republic of Tanzania,TZA,female,14093831
+Zambia,ZMB,female,4348592
+Zimbabwe,ZWE,female,3354428.5
+Angola,AGO,female,8147813.5
+Cameroon,CMR,female,5880422
+Central African Republic,CAF,female,1256335.5
+Chad,TCD,female,4452287
+Congo,COG,female,1252803
+Democratic Republic of the Congo,COD,female,24327420
+Equatorial Guinea,GNQ,female,343407.5
+Gabon,GAB,female,452971
+Sao Tome and Principe,STP,female,43941.5
+Algeria,DZA,female,6925557
+Egypt,EGY,female,18130944.5
+Libya,LBY,female,994175
+Morocco,MAR,female,4786472
+Sudan,SDN,female,10034657.5
+Tunisia,TUN,female,1446441
+Western Sahara,ESH,female,66450
+Botswana,BWA,female,397545.5
+Eswatini,SWZ,female,206164.5
+Lesotho,LSO,female,401441.5
+Namibia,NAM,female,555032.5
+South Africa,ZAF,female,8211036
+Benin,BEN,female,2911603
+Burkina Faso,BFA,female,4806074.5
+Cabo Verde,CPV,female,66932.5
+Côte d'Ivoire,CIV,female,6354308.5
+Gambia,GMB,female,543828.5
+Ghana,GHA,female,6037066
+Guinea,GIN,female,2927975.5
+Guinea-Bissau,GNB,female,417263.5
+Liberia,LBR,female,1084831
+Mali,MLI,female,5460181
+Mauritania,MRT,female,1067393
+Niger,NER,female,6041572
+Nigeria,NGA,female,46599425
+Saint Helena,SHN,female,348.5
+Senegal,SEN,female,3354952
+Sierra Leone,SLE,female,1618054.5
+Togo,TGO,female,1837875.5
+Kazakhstan,KAZ,female,2939053.5
+Kyrgyzstan,KGZ,female,1124029
+Tajikistan,TJK,female,1878255
+Turkmenistan,TKM,female,1140994.5
+Uzbekistan,UZB,female,5305091
+China,CHN,female,109939721
+"China, Hong Kong SAR",HKG,female,391208
+"China, Macao SAR",MAC,female,49096
+"China, Taiwan Province of China",TWN,female,1340870
+Dem. People's Republic of Korea,PRK,female,2441395.5
+Japan,JPN,female,7048489.5
+Mongolia,MNG,female,543842.5
+Republic of Korea,KOR,female,2762645.5
+Afghanistan,AFG,female,8755262.5
+Bangladesh,BGD,female,23494698
+Bhutan,BTN,female,81149.5
+India,IND,female,172455964.5
+Iran (Islamic Republic of),IRN,female,10057576.5
+Maldives,MDV,female,49226.5
+Nepal,NPL,female,4130221.9999999995
+Pakistan,PAK,female,44787762
+Sri Lanka,LKA,female,2520768.5
+Brunei Darussalam,BRN,female,46361.5
+Cambodia,KHM,female,2567339
+Indonesia,IDN,female,34134499
+Lao People's Democratic Republic,LAO,female,1148286.5
+Malaysia,MYS,female,3785819.5
+Myanmar,MMR,female,6459081
+Philippines,PHL,female,16115364
+Singapore,SGP,female,332605.5
+Thailand,THA,female,5250206.5
+Timor-Leste,TLS,female,232974.5
+Viet Nam,VNM,female,11482646.5
+Armenia,ARM,female,276682
+Azerbaijan,AZE,female,1092099.5
+Bahrain,BHR,female,146122.5
+Cyprus,CYP,female,104692.5
+Georgia,GEO,female,388097.5
+Iraq,IRQ,female,8149732
+Israel,ISR,female,1244822.5
+Jordan,JOR,female,1753405.5
+Kuwait,KWT,female,439770.5
+Lebanon,LBN,female,751164
+Oman,OMN,female,624706.5
+Qatar,QAT,female,219554.5
+Saudi Arabia,SAU,female,3926530
+State of Palestine,PSE,female,1018854
+Syrian Arab Republic,SYR,female,3494139.5
+Türkiye,TUR,female,9351854
+United Arab Emirates,ARE,female,857234
+Yemen,YEM,female,7921823
+Belarus,BLR,female,737753
+Bulgaria,BGR,female,480491.5
+Czechia,CZE,female,827156.5
+Hungary,HUN,female,682446
+Poland,POL,female,2847556.5
+Republic of Moldova,MDA,female,299751.5
+Romania,ROU,female,1482799
+Russian Federation,RUS,female,12394566
+Slovakia,SVK,female,427911
+Ukraine,UKR,female,2613343
+Denmark,DNK,female,459278.5
+Estonia,EST,female,106207
+Faroe Islands,FRO,female,5376.5
+Finland,FIN,female,408875.5
+Guernsey,GGY,female,4405
+Iceland,ISL,female,34014.5
+Ireland,IRL,female,482663
+Isle of Man,IMN,female,5988.5
+Jersey,JEY,female,7388
+Latvia,LVA,female,142815
+Lithuania,LTU,female,206976.5
+Norway,NOR,female,443198.5
+Sweden,SWE,female,883851
+United Kingdom,GBR,female,5825769
+Albania,ALB,female,229547.5
+Andorra,AND,female,4840.5
+Bosnia and Herzegovina,BIH,female,203160
+Croatia,HRV,female,267390
+Gibraltar,GIB,female,3319.5
+Greece,GRC,female,676591
+Holy See,VAT,female,15
+Italy,ITA,female,3511567.5
+Kosovo (under UNSC res. 1244),NA,female,173628.5
+Malta,MLT,female,33812.5
+Montenegro,MNE,female,55962
+North Macedonia,MKD,female,152716
+Portugal,PRT,female,656655.5
+San Marino,SMR,female,2109.5
+Serbia,SRB,female,481971.5
+Slovenia,SVN,female,154042.5
+Spain,ESP,female,3082526
+Austria,AUT,female,634347
+Belgium,BEL,female,932512.5
+France,FRA,female,5443998.5
+Germany,DEU,female,5723986
+Liechtenstein,LIE,female,2679.5
+Luxembourg,LUX,female,51447
+Monaco,MCO,female,2532.5
+Netherlands,NLD,female,1339050.5
+Switzerland,CHE,female,647894.5
+Anguilla,AIA,female,1215
+Antigua and Barbuda,ATG,female,8375
+Aruba,ABW,female,9093
+Bahamas,BHS,female,36177
+Barbados,BRB,female,24260
+"Bonaire, Sint Eustatius and Saba",BES,female,2335
+British Virgin Islands,VGB,female,2906
+Cayman Islands,CYM,female,5883.5
+Cuba,CUB,female,827611.5
+Curaçao,CUW,female,13869
+Dominica,DMA,female,6025
+Dominican Republic,DOM,female,1495305.5
+Grenada,GRD,female,11387.5
+Guadeloupe,GLP,female,30638.5
+Haiti,HTI,female,1822092.5
+Jamaica,JAM,female,266879.5
+Martinique,MTQ,female,25938.5
+Montserrat,MSR,female,393.5
+Puerto Rico,PRI,female,189205
+Saint Barthélemy,BLM,female,1106.5
+Saint Kitts and Nevis,KNA,female,4306
+Saint Lucia,LCA,female,15773
+Saint Martin (French part),MAF,female,2886.5
+Saint Vincent and the Grenadines,VCT,female,10791.5
+Sint Maarten (Dutch part),SXM,female,3055.5
+Trinidad and Tobago,TTO,female,133018.5
+Turks and Caicos Islands,TCA,female,3835.5
+United States Virgin Islands,VIR,female,6798
+Belize,BLZ,female,54190
+Costa Rica,CRI,female,482936
+El Salvador,SLV,female,773135
+Guatemala,GTM,female,2869624.5
+Honduras,HND,female,1610801
+Mexico,MEX,female,15881579
+Nicaragua,NIC,female,981503
+Panama,PAN,female,549236.5
+Argentina,ARG,female,4917780.5
+Bolivia (Plurinational State of),BOL,female,1813276
+Brazil,BRA,female,20622116.5
+Chile,CHL,female,1676484.5
+Colombia,COL,female,5276751
+Ecuador,ECU,female,2200835.5
+Falkland Islands (Malvinas),FLK,female,284.5
+French Guiana,GUF,female,47354
+Guyana,GUY,female,119358
+Paraguay,PRY,female,962730.5
+Peru,PER,female,4048404
+Suriname,SUR,female,80175.5
+Uruguay,URY,female,308564.5
+Venezuela (Bolivarian Republic of),VEN,female,3603212.5
+Bermuda,BMU,female,4373
+Canada,CAN,female,2937183
+Greenland,GRL,female,5655
+Saint Pierre and Miquelon,SPM,female,404.5
+United States of America,USA,female,29430020
+Australia,AUS,female,2318164
+New Zealand,NZL,female,462588.5
+Fiji,FJI,female,124554.5
+New Caledonia,NCL,female,30673.5
+Papua New Guinea,PNG,female,1688526.5
+Solomon Islands,SLB,female,144635
+Vanuatu,VUT,female,59975
+Guam,GUM,female,20978.5
+Kiribati,KIR,female,22867.5
+Marshall Islands,MHL,female,6522
+Micronesia (Fed. States of),FSM,female,17560.5
+Nauru,NRU,female,2199
+Northern Mariana Islands,MNP,female,4819.5
+Palau,PLW,female,1572
+American Samoa,ASM,female,6493.5
+Cook Islands,COK,female,1696.5
+French Polynesia,PYF,female,26825
+Niue,NIU,female,215
+Samoa,WSM,female,40707
+Tokelau,TKL,female,323.5
+Tonga,TON,female,18005.5
+Tuvalu,TUV,female,1513
+Wallis and Futuna Islands,WLF,female,1178
+Burundi,BDI,male,3122490.5
+Comoros,COM,male,161337
+Djibouti,DJI,male,172475.5
+Eritrea,ERI,male,677703
+Ethiopia,ETH,male,25814543.5
+Kenya,KEN,male,10431069.5
+Madagascar,MDG,male,6253129.5
+Malawi,MWI,male,4357784
+Mauritius,MUS,male,94956
+Mayotte,MYT,male,68505
+Mozambique,MOZ,male,7557379.5
+Réunion,REU,male,93676
+Rwanda,RWA,male,2645488
+Seychelles,SYC,male,13159
+Somalia,SOM,male,4347565
+South Sudan,SSD,male,2314279.5
+Uganda,UGA,male,10769339
+United Republic of Tanzania,TZA,male,14367805
+Zambia,ZMB,male,4346172.5
+Zimbabwe,ZWE,male,3398135.5
+Angola,AGO,male,8232451.999999999
+Cameroon,CMR,male,5968169.5
+Central African Republic,CAF,male,1276926.5
+Chad,TCD,male,4576897.5
+Congo,COG,male,1274989
+Democratic Republic of the Congo,COD,male,24429256.5
+Equatorial Guinea,GNQ,male,349134
+Gabon,GAB,male,458007
+Sao Tome and Principe,STP,male,44437
+Algeria,DZA,male,7218858.5
+Egypt,EGY,male,19018869.5
+Libya,LBY,male,1048574.0000000001
+Morocco,MAR,male,5032053.5
+Sudan,SDN,male,10307452.5
+Tunisia,TUN,male,1534722.5
+Western Sahara,ESH,male,69106
+Botswana,BWA,male,403108.5
+Eswatini,SWZ,male,208134.5
+Lesotho,LSO,male,405808.5
+Namibia,NAM,male,549974.5
+South Africa,ZAF,male,8277850
+Benin,BEN,male,2991927
+Burkina Faso,BFA,male,4957142.5
+Cabo Verde,CPV,male,70810.5
+Côte d'Ivoire,CIV,male,6509759
+Gambia,GMB,male,555027
+Ghana,GHA,male,6187036
+Guinea,GIN,male,3013263
+Guinea-Bissau,GNB,male,427757.5
+Liberia,LBR,male,1112204
+Mali,MLI,male,5583003.5
+Mauritania,MRT,male,1094069
+Niger,NER,male,6244598.5
+Nigeria,NGA,male,47954288
+Saint Helena,SHN,male,380.5
+Senegal,SEN,male,3628342
+Sierra Leone,SLE,male,1641925.5
+Togo,TGO,male,1872931.5
+Kazakhstan,KAZ,male,3066273.5
+Kyrgyzstan,KGZ,male,1187007
+Tajikistan,TJK,male,1914669
+Turkmenistan,TKM,male,1191356.5
+Uzbekistan,UZB,male,5701154.5
+China,CHN,male,126061581.5
+"China, Hong Kong SAR",HKG,male,405092
+"China, Macao SAR",MAC,male,51526.5
+"China, Taiwan Province of China",TWN,male,1444279
+Dem. People's Republic of Korea,PRK,male,2572943
+Japan,JPN,male,7439843.5
+Mongolia,MNG,male,576253.5
+Republic of Korea,KOR,male,2914614
+Afghanistan,AFG,male,9164057
+Bangladesh,BGD,male,25134853
+Bhutan,BTN,male,87620.5
+India,IND,male,187882029
+Iran (Islamic Republic of),IRN,male,10636349.5
+Maldives,MDV,male,56230
+Nepal,NPL,male,4396179
+Pakistan,PAK,male,46883105
+Sri Lanka,LKA,male,2615977.5
+Brunei Darussalam,BRN,male,50129.5
+Cambodia,KHM,male,2679088.5
+Indonesia,IDN,male,35979229
+Lao People's Democratic Republic,LAO,male,1193956.5
+Malaysia,MYS,male,4043127
+Myanmar,MMR,male,6812212.5
+Philippines,PHL,male,16752190.999999998
+Singapore,SGP,male,349782
+Thailand,THA,male,5569461
+Timor-Leste,TLS,male,240863.5
+Viet Nam,VNM,male,12206338.5
+Armenia,ARM,male,298614
+Azerbaijan,AZE,male,1213446
+Bahrain,BHR,male,151986.5
+Cyprus,CYP,male,111228.5
+Georgia,GEO,male,413029.5
+Iraq,IRQ,male,8568862
+Israel,ISR,male,1311273
+Jordan,JOR,male,1818629.5
+Kuwait,KWT,male,460380.5
+Lebanon,LBN,male,791272.5
+Oman,OMN,male,649111.5
+Qatar,QAT,male,232092
+Saudi Arabia,SAU,male,4089313.5
+State of Palestine,PSE,male,1056669
+Syrian Arab Republic,SYR,male,3663414
+Türkiye,TUR,male,9707787
+United Arab Emirates,ARE,male,881569.5
+Yemen,YEM,male,8317474.5
+Belarus,BLR,male,782312.5
+Bulgaria,BGR,male,507496
+Czechia,CZE,male,867119
+Hungary,HUN,male,720682.5
+Poland,POL,male,3004379.5
+Republic of Moldova,MDA,male,313424
+Romania,ROU,male,1552540.5
+Russian Federation,RUS,male,13079311
+Slovakia,SVK,male,449855.5
+Ukraine,UKR,male,2780768.5
+Denmark,DNK,male,484509.5
+Estonia,EST,male,112111
+Faroe Islands,FRO,male,5652
+Finland,FIN,male,427662
+Guernsey,GGY,male,4679.5
+Iceland,ISL,male,35963
+Ireland,IRL,male,505582
+Isle of Man,IMN,male,6235
+Jersey,JEY,male,7669
+Latvia,LVA,male,152571.5
+Lithuania,LTU,male,217917.5
+Norway,NOR,male,467837.5
+Sweden,SWE,male,936259
+United Kingdom,GBR,male,6131345.5
+Albania,ALB,male,249614
+Andorra,AND,male,5062.5
+Bosnia and Herzegovina,BIH,male,217904
+Croatia,HRV,male,283451.5
+Gibraltar,GIB,male,3525.5
+Greece,GRC,male,715094
+Holy See,VAT,male,15
+Italy,ITA,male,3714305
+Kosovo (under UNSC res. 1244),NA,male,188381
+Malta,MLT,male,36281
+Montenegro,MNE,male,60185.5
+North Macedonia,MKD,male,159933
+Portugal,PRT,male,688247
+San Marino,SMR,male,2173
+Serbia,SRB,male,490002.5
+Slovenia,SVN,male,162230.5
+Spain,ESP,male,3269903
+Austria,AUT,male,671545
+Belgium,BEL,male,975605
+France,FRA,male,5707610.5
+Germany,DEU,male,6041382.5
+Liechtenstein,LIE,male,3001.5
+Luxembourg,LUX,male,53771
+Monaco,MCO,male,2601.5
+Netherlands,NLD,male,1405816
+Switzerland,CHE,male,683664.5
+Anguilla,AIA,male,1252.5
+Antigua and Barbuda,ATG,male,8624.5
+Aruba,ABW,male,9456.5
+Bahamas,BHS,male,37033.5
+Barbados,BRB,male,25111.5
+"Bonaire, Sint Eustatius and Saba",BES,male,2452
+British Virgin Islands,VGB,male,2996
+Cayman Islands,CYM,male,6017.5
+Cuba,CUB,male,882018
+Curaçao,CUW,male,14395
+Dominica,DMA,male,6020
+Dominican Republic,DOM,male,1554391.5
+Grenada,GRD,male,11848.5
+Guadeloupe,GLP,male,31334.5
+Haiti,HTI,male,1852090
+Jamaica,JAM,male,276488.5
+Martinique,MTQ,male,26178
+Montserrat,MSR,male,350
+Puerto Rico,PRI,male,199996
+Saint Barthélemy,BLM,male,1125
+Saint Kitts and Nevis,KNA,male,4267
+Saint Lucia,LCA,male,16265.5
+Saint Martin (French part),MAF,male,2927.5
+Saint Vincent and the Grenadines,VCT,male,11141.5
+Sint Maarten (Dutch part),SXM,male,3596.5
+Trinidad and Tobago,TTO,male,137915.5
+Turks and Caicos Islands,TCA,male,3657
+United States Virgin Islands,VIR,male,7359
+Belize,BLZ,male,56778
+Costa Rica,CRI,male,504012.5
+El Salvador,SLV,male,817546
+Guatemala,GTM,male,2955290
+Honduras,HND,male,1688693
+Mexico,MEX,male,16446937.999999998
+Nicaragua,NIC,male,1011256.5
+Panama,PAN,male,577767
+Argentina,ARG,male,5187490
+Bolivia (Plurinational State of),BOL,male,1877407.5
+Brazil,BRA,male,21470798
+Chile,CHL,male,1741074
+Colombia,COL,male,5500279.5
+Ecuador,ECU,male,2295028.5
+Falkland Islands (Malvinas),FLK,male,280.5
+French Guiana,GUF,male,47306
+Guyana,GUY,male,122955.5
+Paraguay,PRY,male,1007083.5
+Peru,PER,male,4195766
+Suriname,SUR,male,82997.5
+Uruguay,URY,male,324512
+Venezuela (Bolivarian Republic of),VEN,male,3798528
+Bermuda,BMU,male,4606
+Canada,CAN,male,3077365.5
+Greenland,GRL,male,5978.5
+Saint Pierre and Miquelon,SPM,male,412
+United States of America,USA,male,31003572.5
+Australia,AUS,male,2451048.5
+New Zealand,NZL,male,487906.5
+Fiji,FJI,male,128525.5
+New Caledonia,NCL,male,31724.5
+Papua New Guinea,PNG,male,1823609.5
+Solomon Islands,SLB,male,154271.5
+Vanuatu,VUT,male,63745.5
+Guam,GUM,male,22346.5
+Kiribati,KIR,male,23424
+Marshall Islands,MHL,male,6953
+Micronesia (Fed. States of),FSM,male,18627
+Nauru,NRU,male,2335
+Northern Mariana Islands,MNP,male,5376.5
+Palau,PLW,male,1715
+American Samoa,ASM,male,6580
+Cook Islands,COK,male,1836.5
+French Polynesia,PYF,male,28649
+Niue,NIU,male,209.5
+Samoa,WSM,male,43202
+Tokelau,TKL,male,322.5
+Tonga,TON,male,19256
+Tuvalu,TUV,male,1687
+Wallis and Futuna Islands,WLF,male,1243.5
+Burundi,BDI,total,6210183.5
+Comoros,COM,total,318056.5
+Djibouti,DJI,total,340978.5
+Eritrea,ERI,total,1342257.5
+Ethiopia,ETH,total,50660304.5
+Kenya,KEN,total,20722868.5
+Madagascar,MDG,total,12344896
+Malawi,MWI,total,8719545
+Mauritius,MUS,total,192620.5
+Mayotte,MYT,total,137654.5
+Mozambique,MOZ,total,15053370.5
+Réunion,REU,total,185456.5
+Rwanda,RWA,total,5265212.5
+Seychelles,SYC,total,25769
+Somalia,SOM,total,8569565
+South Sudan,SSD,total,4576301
+Uganda,UGA,total,21378767
+United Republic of Tanzania,TZA,total,28461636
+Zambia,ZMB,total,8694764.5
+Zimbabwe,ZWE,total,6752564
+Angola,AGO,total,16380265.5
+Cameroon,CMR,total,11848591.5
+Central African Republic,CAF,total,2533262
+Chad,TCD,total,9029184.5
+Congo,COG,total,2527792
+Democratic Republic of the Congo,COD,total,48756676.5
+Equatorial Guinea,GNQ,total,692541.5
+Gabon,GAB,total,910978
+Sao Tome and Principe,STP,total,88378.5
+Algeria,DZA,total,14144415.5
+Egypt,EGY,total,37149814
+Libya,LBY,total,2042749
+Morocco,MAR,total,9818525.5
+Sudan,SDN,total,20342110
+Tunisia,TUN,total,2981163.5
+Western Sahara,ESH,total,135556
+Botswana,BWA,total,800654
+Eswatini,SWZ,total,414299
+Lesotho,LSO,total,807250
+Namibia,NAM,total,1105007
+South Africa,ZAF,total,16488885.999999998
+Benin,BEN,total,5903530
+Burkina Faso,BFA,total,9763217
+Cabo Verde,CPV,total,137743
+Côte d'Ivoire,CIV,total,12864067.5
+Gambia,GMB,total,1098855.5
+Ghana,GHA,total,12224102
+Guinea,GIN,total,5941238.5
+Guinea-Bissau,GNB,total,845021
+Liberia,LBR,total,2197035
+Mali,MLI,total,11043184.5
+Mauritania,MRT,total,2161462
+Niger,NER,total,12286170.5
+Nigeria,NGA,total,94553713
+Saint Helena,SHN,total,729
+Senegal,SEN,total,6983294
+Sierra Leone,SLE,total,3259980
+Togo,TGO,total,3710807
+Kazakhstan,KAZ,total,6005327
+Kyrgyzstan,KGZ,total,2311036
+Tajikistan,TJK,total,3792924
+Turkmenistan,TKM,total,2332351
+Uzbekistan,UZB,total,11006245.5
+China,CHN,total,236001302.5
+"China, Hong Kong SAR",HKG,total,796300
+"China, Macao SAR",MAC,total,100622.5
+"China, Taiwan Province of China",TWN,total,2785149
+Dem. People's Republic of Korea,PRK,total,5014338.5
+Japan,JPN,total,14488333
+Mongolia,MNG,total,1120096
+Republic of Korea,KOR,total,5677259.5
+Afghanistan,AFG,total,17919319.5
+Bangladesh,BGD,total,48629551
+Bhutan,BTN,total,168770
+India,IND,total,360337993.5
+Iran (Islamic Republic of),IRN,total,20693926
+Maldives,MDV,total,105456.5
+Nepal,NPL,total,8526401
+Pakistan,PAK,total,91670867
+Sri Lanka,LKA,total,5136746
+Brunei Darussalam,BRN,total,96491
+Cambodia,KHM,total,5246427.5
+Indonesia,IDN,total,70113728
+Lao People's Democratic Republic,LAO,total,2342243
+Malaysia,MYS,total,7828946.5
+Myanmar,MMR,total,13271293.5
+Philippines,PHL,total,32867555
+Singapore,SGP,total,682387.5
+Thailand,THA,total,10819667.5
+Timor-Leste,TLS,total,473838
+Viet Nam,VNM,total,23688985
+Armenia,ARM,total,575296
+Azerbaijan,AZE,total,2305545.5
+Bahrain,BHR,total,298109
+Cyprus,CYP,total,215921
+Georgia,GEO,total,801127
+Iraq,IRQ,total,16718594.000000002
+Israel,ISR,total,2556095.5
+Jordan,JOR,total,3572035
+Kuwait,KWT,total,900151
+Lebanon,LBN,total,1542436.5
+Oman,OMN,total,1273818
+Qatar,QAT,total,451646.5
+Saudi Arabia,SAU,total,8015843.5
+State of Palestine,PSE,total,2075523.0000000002
+Syrian Arab Republic,SYR,total,7157553.5
+Türkiye,TUR,total,19059641
+United Arab Emirates,ARE,total,1738803.5
+Yemen,YEM,total,16239297.5
+Belarus,BLR,total,1520065.5
+Bulgaria,BGR,total,987987.5
+Czechia,CZE,total,1694275.5
+Hungary,HUN,total,1403128.5
+Poland,POL,total,5851936
+Republic of Moldova,MDA,total,613175.5
+Romania,ROU,total,3035339.5
+Russian Federation,RUS,total,25473877
+Slovakia,SVK,total,877766.5
+Ukraine,UKR,total,5394111.5
+Denmark,DNK,total,943788
+Estonia,EST,total,218318
+Faroe Islands,FRO,total,11028.5
+Finland,FIN,total,836537.5
+Guernsey,GGY,total,9084.5
+Iceland,ISL,total,69977.5
+Ireland,IRL,total,988245
+Isle of Man,IMN,total,12223.5
+Jersey,JEY,total,15057
+Latvia,LVA,total,295386.5
+Lithuania,LTU,total,424894
+Norway,NOR,total,911036
+Sweden,SWE,total,1820110
+United Kingdom,GBR,total,11957114.5
+Albania,ALB,total,479161.5
+Andorra,AND,total,9903
+Bosnia and Herzegovina,BIH,total,421064
+Croatia,HRV,total,550841.5
+Gibraltar,GIB,total,6845
+Greece,GRC,total,1391685
+Holy See,VAT,total,30
+Italy,ITA,total,7225872.5
+Kosovo (under UNSC res. 1244),NA,total,362009.5
+Malta,MLT,total,70093.5
+Montenegro,MNE,total,116147.5
+North Macedonia,MKD,total,312649
+Portugal,PRT,total,1344902.5
+San Marino,SMR,total,4282.5
+Serbia,SRB,total,971974
+Slovenia,SVN,total,316273
+Spain,ESP,total,6352429
+Austria,AUT,total,1305892
+Belgium,BEL,total,1908117.5
+France,FRA,total,11151609
+Germany,DEU,total,11765368.5
+Liechtenstein,LIE,total,5681
+Luxembourg,LUX,total,105218
+Monaco,MCO,total,5134
+Netherlands,NLD,total,2744866.5
+Switzerland,CHE,total,1331559
+Anguilla,AIA,total,2467.5
+Antigua and Barbuda,ATG,total,16999.5
+Aruba,ABW,total,18549.5
+Bahamas,BHS,total,73210.5
+Barbados,BRB,total,49371.5
+"Bonaire, Sint Eustatius and Saba",BES,total,4787
+British Virgin Islands,VGB,total,5902
+Cayman Islands,CYM,total,11901
+Cuba,CUB,total,1709629.5
+Curaçao,CUW,total,28264
+Dominica,DMA,total,12045
+Dominican Republic,DOM,total,3049697
+Grenada,GRD,total,23236
+Guadeloupe,GLP,total,61973
+Haiti,HTI,total,3674182.5
+Jamaica,JAM,total,543368
+Martinique,MTQ,total,52116.5
+Montserrat,MSR,total,743.5
+Puerto Rico,PRI,total,389201
+Saint Barthélemy,BLM,total,2231.5
+Saint Kitts and Nevis,KNA,total,8573
+Saint Lucia,LCA,total,32038.5
+Saint Martin (French part),MAF,total,5814
+Saint Vincent and the Grenadines,VCT,total,21933
+Sint Maarten (Dutch part),SXM,total,6652
+Trinidad and Tobago,TTO,total,270934
+Turks and Caicos Islands,TCA,total,7492.5
+United States Virgin Islands,VIR,total,14157
+Belize,BLZ,total,110968
+Costa Rica,CRI,total,986948.5
+El Salvador,SLV,total,1590681
+Guatemala,GTM,total,5824914.5
+Honduras,HND,total,3299494
+Mexico,MEX,total,32328517
+Nicaragua,NIC,total,1992759.5
+Panama,PAN,total,1127003.5
+Argentina,ARG,total,10105270.5
+Bolivia (Plurinational State of),BOL,total,3690683.5
+Brazil,BRA,total,42092914.5
+Chile,CHL,total,3417558.5
+Colombia,COL,total,10777030.5
+Ecuador,ECU,total,4495864
+Falkland Islands (Malvinas),FLK,total,565
+French Guiana,GUF,total,94660
+Guyana,GUY,total,242313.5
+Paraguay,PRY,total,1969814
+Peru,PER,total,8244170
+Suriname,SUR,total,163173
+Uruguay,URY,total,633076.5
+Venezuela (Bolivarian Republic of),VEN,total,7401740.5
+Bermuda,BMU,total,8979
+Canada,CAN,total,6014548.5
+Greenland,GRL,total,11633.5
+Saint Pierre and Miquelon,SPM,total,816.5
+United States of America,USA,total,60433592.5
+Australia,AUS,total,4769212.5
+New Zealand,NZL,total,950495
+Fiji,FJI,total,253080
+New Caledonia,NCL,total,62398
+Papua New Guinea,PNG,total,3512136
+Solomon Islands,SLB,total,298906.5
+Vanuatu,VUT,total,123720.5
+Guam,GUM,total,43325
+Kiribati,KIR,total,46291.5
+Marshall Islands,MHL,total,13475
+Micronesia (Fed. States of),FSM,total,36187.5
+Nauru,NRU,total,4534
+Northern Mariana Islands,MNP,total,10196
+Palau,PLW,total,3287
+American Samoa,ASM,total,13073.5
+Cook Islands,COK,total,3533
+French Polynesia,PYF,total,55474
+Niue,NIU,total,424.5
+Samoa,WSM,total,83909
+Tokelau,TKL,total,646
+Tonga,TON,total,37261.5
+Tuvalu,TUV,total,3200
+Wallis and Futuna Islands,WLF,total,2421.5
