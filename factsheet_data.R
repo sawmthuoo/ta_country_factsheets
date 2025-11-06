@@ -206,20 +206,65 @@ fn_smk_num <- df |> select(ISO3, ctry = Countrynameforthepage) |>
   )
   
 # 2.3 youth ----
+# Data Source: GBD 2023
+# Direct request to IHME
+
 df_yth_smk_prv <- read_csv("data/youth_smk_ihme_20250404.csv") |> 
   filter(year_id == 2023) |> 
-  select(ctry = location_name, sex = sex_id, val) |> 
+  select(ctry = location_name, sex_group = sex_id, pct = val) |> 
   mutate(
     ISO3 = countrycode(ctry, "country.name.en", "iso3c"),
     .after = ctry
   ) |> 
   mutate(
-    sex = case_when(
-      sex == 1 ~ "boy",
-      sex == 2 ~ "girl"
+    sex_group = case_when(
+      sex_group == 1 ~ "male",
+      sex_group == 2 ~ "female"
     )
+  ) |> 
+  select(!ctry)
+
+# pop data from UN pop estimates
+df_pop <- read_csv("data/pop_0_14_un_20251106.csv") |> 
+  select(iso3, sex_group, pop = value)
+
+df_yth_tt_prv <- df_yth_smk_prv |> 
+  left_join(df_pop, join_by(ISO3 == iso3,
+                            sex_group)) |> 
+  mutate(
+    num = pct * pop
+  ) |> 
+  group_by(ISO3) |> 
+  summarize(
+    tt_num = sum(num, na.rm = TRUE)
+  ) |> 
+  left_join(
+    df_pop |> filter(sex_group == "total"),
+    join_by(ISO3 == iso3)
+  ) |> 
+  mutate(
+    pct = tt_num / pop
+  ) |> 
+  select(ISO3, sex_group, pct)
+
+yth_smk_prv_pct <- bind_rows(df_yth_smk_prv, df_yth_tt_prv) |> 
+  pivot_wider(
+    id_cols = ISO3,
+    names_from = sex_group,
+    values_from = pct
+  ) |> 
+  mutate(
+    across(where(is.numeric),\(x) paste0(round(x*100,2),"%"))
   )
 
+fn_yth_smk_prv <- df |> select(ISO3, ctry = Countrynameforthepage) |> 
+  left_join(yth_smk_prv_pct, join_by(ISO3)) |> 
+  mutate(
+    youth_text = paste0("Youth smoking prevalence in ", ctry, " is ", total, ".")
+  ) |> 
+  select(ISO3, youth_boy = male, youth_girl = female, youth_text)
+
+#---- 2.4 smokeless ----
 
 # 3. Negative effect of tbc use ----
 # 4. Impact of the tbc supply chain ----
